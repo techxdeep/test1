@@ -1,0 +1,3 @@
+pubic static void main
+{
+}
